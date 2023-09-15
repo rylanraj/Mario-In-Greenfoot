@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=LevelSelection
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ LevelSelection\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=l2unlocked\ l3unlocked
+comment1.target=LevelSelection(boolean,\ boolean)
+comment2.params=
+comment2.target=void\ prepare()
+comment2.text=\r\n\ Prepare\ the\ world\ for\ the\ start\ of\ the\ program.\r\n\ That\ is\:\ create\ the\ initial\ objects\ and\ add\ them\ to\ the\ world.\r\n
+comment3.params=
+comment3.target=void\ levelHandler()
+comment4.params=actor\ xs\ ys
+comment4.target=void\ generalizeScaleSingleActor(greenfoot.Actor,\ double,\ double)
+comment5.params=actor\ xs\ ys
+comment5.target=void\ generalizePositionSingleActor(greenfoot.Actor,\ double,\ double)
+comment6.params=originalx\ originaly
+comment6.target=void\ generalizeProject(double,\ double)
+comment7.params=originalx\ originaly
+comment7.target=void\ generalizePostion(double,\ double)
+numComments=8

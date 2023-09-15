@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Powerup
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Powerups\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=moving\ onKeyDescend
+comment1.target=Powerup(boolean,\ boolean)
+comment2.params=
+comment2.target=void\ act()
+numComments=3

@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.target=Goomba
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Goomba\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=timer\ LEFT\ RIGHT\ LEFTFLIPPED\ RIGHTFLIPPED\ floored\ nativeW\ nativeH
+comment1.target=Goomba(int,\ greenfoot.GreenfootImage[],\ greenfoot.GreenfootImage[],\ greenfoot.GreenfootImage[],\ greenfoot.GreenfootImage[],\ boolean,\ int,\ int)
+comment10.params=
+comment10.target=void\ platformRight()
+comment11.params=
+comment11.target=void\ platformLeft()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ generalizeSpeed()
+comment4.params=xs\ ys
+comment4.target=void\ generalizeGoomba(double,\ double)
+comment5.params=
+comment5.target=void\ turnAround()
+comment6.params=
+comment6.target=void\ checkFlip()
+comment7.params=
+comment7.target=void\ animationMovement()
+comment8.params=
+comment8.target=void\ checkGravity()
+comment9.params=
+comment9.target=void\ platformBelow()
+numComments=12

@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Leftpipe
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Leftpipe\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=moving\ scalex\ scaley\ worldToGo
+comment1.target=Leftpipe(boolean,\ int,\ int,\ greenfoot.World)
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=greenfoot.World\ getWorldToSend()
+numComments=4
